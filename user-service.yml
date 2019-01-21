@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: microservice-user-service
+config:
+  dialect: MySql
+  env: default
