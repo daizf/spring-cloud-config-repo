@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: microservice-foo
+foo:
+  info: product, dzf.

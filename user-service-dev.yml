@@ -1,6 +1,5 @@
 spring:
   application:
     name: microservice-user-service
-config:
-  dialect: MySql
-  env: dev
+user:
+  info: user, dzf.
