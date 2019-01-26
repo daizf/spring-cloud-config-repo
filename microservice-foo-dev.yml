@@ -1,5 +1,9 @@
 spring:
   application:
     name: microservice-foo
+
+management.security.enabled: false
+endpoints.health.sensitive: false
+
 app:
   author: Hi, daizhifeng.
