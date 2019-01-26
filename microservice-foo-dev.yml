@@ -2,4 +2,4 @@ spring:
   application:
     name: microservice-foo
 foo:
-  info: product, dzf.
+  info: foo, dzf.
